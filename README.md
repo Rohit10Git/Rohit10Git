@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rohit10Git/Rohit10Git/blob/main/Rohit_Banner.png)
 
-<h1 align="center"> Hello World, I'm Rohit Ghorad - aka Software Tester 👋 </h1>
+<h1 align="center"> Hello there, I'm Rohit Ghorad 👋 </h1>
 
 <h3 align="center"> A dedicated Software Tester with a keen eye for quality and a mission to ensure that every line of code meets the highest standards. I thrive on uncovering hidden defects and improving software reliability to deliver exceptional user experiences.</h3>
 
