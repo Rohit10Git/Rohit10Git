@@ -33,9 +33,7 @@ _<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https
 _
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit10git&show_icons=true&locale=en&layout=compact" alt="rohit10git" ></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit10git&show_icons=true&locale=en" alt="rohit10git" ></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit10git&" alt="rohit10git" ></p>
 
 ### Top contributed Repo
