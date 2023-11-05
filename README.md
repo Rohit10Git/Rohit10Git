@@ -12,7 +12,7 @@
   
 - 💬 Ask me about : **Manual and Automation Software Testing**
 
-- 📫 How to reach me : **[GMail](rohitstask@gmail.com)**
+- 📫 How to reach me : **rohitstask@gmail.com**
 
 - 😊 Pronouns : **He/His**
 
