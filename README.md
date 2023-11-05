@@ -41,4 +41,4 @@ _<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https
 
 ### My GitHub Contributions
 
-![Snake animation](https://github.com/Rohit10Git/Rohit10Git/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rohit10Git/Rohit10Git/blob/output/github-contribution-grid-snake.gif)
