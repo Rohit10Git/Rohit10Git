@@ -36,9 +36,7 @@ _<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit10git&" alt="rohit10git" ></p>
 
 ### Top contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=Rohit10Git&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### My GitHub Contributions
-
 ![snake gif](https://github.com/Rohit10Git/Rohit10Git/blob/output/github-contribution-grid-snake.gif)
