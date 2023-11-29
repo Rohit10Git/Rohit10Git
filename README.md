@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohit10Git/Rohit10Git/blob/main/Rohit_Banner.png)
+![logo](https://github.com/Rohit10Git/Rohit10Git/blob/main/Rohit%20Ghorad%20Banner.png)
 
 <h1 align="center"> Hello there, I'm Rohit Ghorad 👋 </h1>
 
